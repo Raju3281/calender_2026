@@ -39,7 +39,10 @@ import {
 } from "@ishubhamx/panchangam-js";
 
 // import * as Astronomy from "astronomy-engine";
-const Astronomy = require("astronomy-engine/astronomy.js");
+// import * as Astronomy from "astronomy-engine/esm/astronomy.js";
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+const Astronomy = require('astronomy-engine');
 // ------------------------------------------------------------
 dotenv.config();
 const app = express();
