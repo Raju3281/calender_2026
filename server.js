@@ -38,7 +38,7 @@ import {
   karanaNames,
 } from "@ishubhamx/panchangam-js";
 
-import * as Astronomy from "astronomy-engine";
+import Astronomy from "astronomy-engine";
 
 // ------------------------------------------------------------
 dotenv.config();
