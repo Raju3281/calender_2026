@@ -1,0 +1,130 @@
+{
+  "year": 2027,
+  "country": "India",
+  "note": "Comprehensive list. If a festival and a lunar date (Amavasya/Purnima) fall on the same day, the 'name' combines both, and the 'type' is set only to 'Festival'.",
+  "calendar": [
+    {
+      "month": "January",
+      "days": [
+        {"date": "2027-01-01", "name": "New Year's Day", "type": "Special Day"},
+        {"date": "2027-01-13", "name": "Bhogi / Lohri", "type": "Regional Festival"},
+        {"date": "2027-01-14", "name": "Makar Sankranti / Pongal", "type": "National Festival", "description": ["Gazetted Holiday", "Major Festival"]},
+        {"date": "2027-01-15", "name": "Kanuma", "type": "Regional Festival"},
+        {"date": "2027-01-17", "name": "Poush Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-01-26", "name": "Republic Day", "type": "National Holiday"},
+        {"date": "2027-01-31", "name": "Poush Purnima", "type": "Lunar Date (Purnima)"}
+      ]
+    },
+    {
+      "month": "February",
+      "days": [
+        {"date": "2027-02-15", "name": "Magha Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-02-16", "name": "Maha Shivaratri", "type": "Festival", "description": ["Gazetted Holiday"]},
+        {"date": "2027-02-28", "name": "Magha Purnima", "type": "Lunar Date (Purnima)"}
+      ]
+    },
+    {
+      "month": "March",
+      "days": [
+        {"date": "2027-03-05", "name": "Holi / Phalguna Purnima", "type": "Festival", "description": ["Gazetted Holiday"]},
+        {"date": "2027-03-16", "name": "Phalguna Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-03-24", "name": "Ugadi / Gudi Padwa", "type": "Regional Festival", "description": ["New Year's Day"]},
+        {"date": "2027-03-31", "name": "Rama Navami", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "April",
+      "days": [
+        {"date": "2027-04-01", "name": "Hanuman Jayanti / Chaitra Purnima", "type": "Festival"},
+        {"date": "2027-04-02", "name": "Good Friday", "type": "Gazetted Holiday"},
+        {"date": "2027-04-04", "name": "Easter", "type": "Festival"},
+        {"date": "2027-04-14", "name": "Ambedkar Jayanti / Vaisakhi", "type": "Special Day/Regional Festival"},
+        {"date": "2027-04-15", "name": "Chaitra Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-04-23", "name": "Akshaya Tritiya", "type": "Festival"},
+        {"date": "2027-04-26", "name": "Mahavir Jayanti", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "May",
+      "days": [
+        {"date": "2027-05-01", "name": "Labour Day / Vaishakha Purnima", "type": "Special Day/Lunar Date"},
+        {"date": "2027-05-14", "name": "Vaishakha Amavasya / Shani Jayanti", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-05-25", "name": "Buddha Purnima / Eid-ul-Fitr (Ramadan - Tentative)", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "June",
+      "days": [
+        {"date": "2027-06-03", "name": "Dussehra / Ganga Dussehra", "type": "Festival"},
+        {"date": "2027-06-12", "name": "Jyeshtha Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-06-21", "name": "International Yoga Day", "type": "Special Day"}
+      ]
+    },
+    {
+      "month": "July",
+      "days": [
+        {"date": "2027-07-01", "name": "Ratha Yatra", "type": "Festival"},
+        {"date": "2027-07-11", "name": "Ashadha Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-07-16", "name": "Bakri Id / Eid al-Adha (Tentative)", "type": "Festival", "description": ["Gazetted Holiday"]},
+        {"date": "2027-07-24", "name": "Guru Purnima / Ashadha Purnima", "type": "Festival"}
+      ]
+    },
+    {
+      "month": "August",
+      "days": [
+        {"date": "2027-08-09", "name": "Shravana Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-08-15", "name": "Independence Day", "type": "National Holiday"},
+        {"date": "2027-08-16", "name": "Raksha Bandhan / Shravana Purnima", "type": "Festival"},
+        {"date": "2027-08-25", "name": "Shri Krishna Janmashtami", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "September",
+      "days": [
+        {"date": "2027-09-07", "name": "Bhadrapada Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-09-08", "name": "Ganesh Chaturthi / Vinayaka Chavithi", "type": "Festival", "description": ["Restricted Holiday"]},
+        {"date": "2027-09-17", "name": "Vishwakarma Puja", "type": "Festival"},
+        {"date": "2027-09-20", "name": "Bhadrapada Purnima / Onam", "type": "Festival"},
+        {"date": "2027-09-21", "name": "Milad un-Nabi (Tentative)", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "October",
+      "days": [
+        {"date": "2027-10-02", "name": "Gandhi Jayanti", "type": "National Holiday"},
+        {"date": "2027-10-05", "name": "Ashwiyuja Amavasya / Mahalaya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-10-06", "name": "Sharannavaratri Begins", "type": "Festival"},
+        {"date": "2027-10-15", "name": "Dussehra / Vijayadashami", "type": "Festival", "description": ["Gazetted Holiday"]},
+        {"date": "2027-10-20", "name": "Ashwiyuja Purnima", "type": "Lunar Date (Purnima)"},
+        {"date": "2027-10-24", "name": "Naraka Chaturdashi", "type": "Festival"},
+        {"date": "2027-10-25", "name": "Diwali / Lakshmi Puja", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "November",
+      "days": [
+        {"date": "2027-11-04", "name": "Kartika Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-11-19", "name": "Guru Nanak Jayanti / Kartika Purnima", "type": "Festival", "description": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "December",
+      "days": [
+        {"date": "2027-12-04", "name": "Margashira Amavasya", "type": "Lunar Date (Amavasya)"},
+        {"date": "2027-12-25", "name": "Christmas Day", "type": "Gazetted Holiday"}
+      ]
+    }
+  ],
+  "important_lunar_dates_2027_partial": [
+    {"date": "2027-01-08", "name": "Pausha Putrada Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-02-06", "name": "Jaya Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-03-29", "name": "Kamada Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-04-13", "name": "Varuthini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-05-12", "name": "Mohini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-06-11", "name": "Nirjala Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-07-01", "name": "Yogini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-07-31", "name": "Kamika Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-10-06", "name": "Indira Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2027-11-05", "name": "Rama Ekadashi", "type": "Ekadashi Vrat"}
+  ]
+}

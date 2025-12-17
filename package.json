@@ -1,0 +1,21 @@
+{
+  "name": "telugu-panchang-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@ishubhamx/panchangam-js": "^1.0.3",
+    "11holidays": "^1.0.1",
+    "astronomia": "^2.1.0",
+    "astronomy-engine": "^2.1.19",
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "moment-timezone": "^0.5.48",
+    "mongoose": "^7.6.3",
+    "sweph": "^2.10.3-b-1"
+  }
+}

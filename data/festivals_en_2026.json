@@ -1,0 +1,133 @@
+{
+  "year": 2026,
+  "country": "India",
+  "notes": "FINAL Comprehensive list. When a Lunar Day (Amavasya/Purnima) coincides with a major festival, the 'name' is combined and the 'type' is set to 'Festival' or 'Holiday'.",
+  "calendar": [
+    {
+      "month": "January",
+      "days": [
+        {"date": "2026-01-01", "name": "New Year's Day", "type": "Special Day"},
+        {"date": "2026-01-13", "name": "Bhogi / Lohri", "type": "Regional Festival"},
+        {"date": "2026-01-14", "name": "Makar Sankranti / Pongal / Bihu", "type": "National Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-01-15", "name": "Kanuma / Mattu Pongal", "type": "Regional Festival"},
+        {"date": "2026-01-18", "name": "Pausha Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-01-26", "name": "Republic Day", "type": "National Holiday"},
+        {"date": "2026-01-31", "name": "Pausha Purnima", "type": "Lunar Day (Purnima)"}
+      ]
+    },
+    {
+      "month": "February",
+      "days": [
+        {"date": "2026-02-15", "name": "Maha Shivaratri", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-02-17", "name": "Magha Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-02-28", "name": "Magha Purnima", "type": "Lunar Day (Purnima)"}
+      ]
+    },
+    {
+      "month": "March",
+      "days": [
+        {"date": "2026-03-04", "name": "Holi / Phalguna Purnima", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-03-19", "name": "Phalguna Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-03-19", "name": "Ugadi / Gudi Padwa", "type": "Regional Festival", "details": ["New Year's Day"]},
+        {"date": "2026-03-21", "name": "Eid-ul-Fitr (Tentative)", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-03-26", "name": "Rama Navami", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-03-31", "name": "Mahavir Jayanti", "type": "Festival", "details": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "April",
+      "days": [
+        {"date": "2026-04-02", "name": "Hanuman Jayanti / Chaitra Purnima", "type": "Festival"},
+        {"date": "2026-04-03", "name": "Good Friday", "type": "Gazetted Holiday"},
+        {"date": "2026-04-14", "name": "Ambedkar Jayanti / Baisakhi", "type": "Special Day/Regional Festival"},
+        {"date": "2026-04-17", "name": "Chaitra Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-04-19", "name": "Akshaya Tritiya", "type": "Festival"}
+      ]
+    },
+    {
+      "month": "May",
+      "days": [
+        {"date": "2026-05-01", "name": "Labour Day / Buddha Purnima", "type": "Special Day/Festival", "details": ["Gazetted Holiday", "Vaishakha Purnima"]},
+        {"date": "2026-05-16", "name": "Vaishakha Amavasya / Shani Jayanti", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-05-27", "name": "Bakri Id / Eid-ul-Adha (Tentative)", "type": "Festival", "details": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "June",
+      "days": [
+        {"date": "2026-06-03", "name": "Dashahara / Ganga Dussehra", "type": "Festival"},
+        {"date": "2026-06-15", "name": "Jyeshtha Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-06-21", "name": "International Yoga Day", "type": "Special Day"},
+        {"date": "2026-06-29", "name": "Jyeshtha Purnima", "type": "Lunar Day (Purnima)"}
+      ]
+    },
+    {
+      "month": "July",
+      "days": [
+        {"date": "2026-07-14", "name": "Ashadha Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-07-16", "name": "Rath Yatra", "type": "Festival"},
+        {"date": "2026-07-18", "name": "Bonalu Festival Begins", "type": "Regional Festival"},
+        {"date": "2026-07-28", "name": "Guru Purnima / Ashadha Purnima", "type": "Festival"}
+      ]
+    },
+    {
+      "month": "August",
+      "days": [
+        {"date": "2026-08-12", "name": "Shravana Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-08-15", "name": "Independence Day", "type": "National Holiday"},
+        {"date": "2026-08-25", "name": "Krishna Janmashtami", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-08-26", "name": "Onam / Milad un-Nabi (Tentative)", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-08-27", "name": "Raksha Bandhan / Shravana Purnima", "type": "Festival"}
+      ]
+    },
+    {
+      "month": "September",
+      "days": [
+        {"date": "2026-09-11", "name": "Bhadrapada Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-09-14", "name": "Ganesh Chaturthi / Vinayaka Chavithi", "type": "Festival", "details": ["Restricted Holiday"]},
+        {"date": "2026-09-17", "name": "Vishwakarma Puja", "type": "Festival"},
+        {"date": "2026-09-26", "name": "Bhadrapada Purnima", "type": "Lunar Day (Purnima)"}
+      ]
+    },
+    {
+      "month": "October",
+      "days": [
+        {"date": "2026-10-02", "name": "Gandhi Jayanti", "type": "National Holiday"},
+        {"date": "2026-10-10", "name": "Mahalaya Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-10-11", "name": "Sharad Navratri Begins", "type": "Festival"},
+        {"date": "2026-10-20", "name": "Dussehra / Vijayadashami", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-10-25", "name": "Ashwin Purnima", "type": "Lunar Day (Purnima)"}
+      ]
+    },
+    {
+      "month": "November",
+      "days": [
+        {"date": "2026-11-08", "name": "Diwali / Deepavali / Lakshmi Puja", "type": "Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-11-09", "name": "Kartika Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-11-10", "name": "Govardhan Puja", "type": "Festival"},
+        {"date": "2026-11-11", "name": "Bhai Dooj", "type": "Festival"},
+        {"date": "2026-11-24", "name": "Guru Nanak Jayanti / Kartika Purnima", "type": "Festival", "details": ["Gazetted Holiday"]}
+      ]
+    },
+    {
+      "month": "December",
+      "days": [
+        {"date": "2026-12-08", "name": "Margashirsha Amavasya", "type": "Lunar Day (Amavasya)"},
+        {"date": "2026-12-24", "name": "Margashirsha Purnima", "type": "Lunar Day (Purnima)"},
+        {"date": "2026-12-25", "name": "Christmas Day", "type": "Gazetted Holiday"}
+      ]
+    }
+  ],
+  "lunar_observances_2026_partial": [
+    {"date": "2026-01-08", "name": "Pausha Putrada Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-02-06", "name": "Jaya Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-03-29", "name": "Kamada Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-04-13", "name": "Varuthini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-05-12", "name": "Mohini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-06-11", "name": "Nirjala Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-07-01", "name": "Yogini Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-07-31", "name": "Kamika Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-10-06", "name": "Indira Ekadashi", "type": "Ekadashi Vrat"},
+    {"date": "2026-11-05", "name": "Rama Ekadashi", "type": "Ekadashi Vrat"}
+  ]
+}
