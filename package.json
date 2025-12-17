@@ -6,7 +6,8 @@
   "node": "24.x"
 },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo \"No build step required\""
   },
   "dependencies": {
     "@ishubhamx/panchangam-js": "^1.0.3",
