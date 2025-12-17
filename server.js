@@ -38,8 +38,8 @@ import {
   karanaNames,
 } from "@ishubhamx/panchangam-js";
 
-import Astronomy from "astronomy-engine";
-
+// import * as Astronomy from "astronomy-engine";
+const Astronomy = require("astronomy-engine/astronomy.js");
 // ------------------------------------------------------------
 dotenv.config();
 const app = express();
