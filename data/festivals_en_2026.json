@@ -7,9 +7,9 @@
       "month": "January",
       "days": [
         {"date": "2026-01-01", "name": "New Year's Day", "type": "Special Day"},
-        {"date": "2026-01-13", "name": "Bhogi / Lohri", "type": "Regional Festival"},
-        {"date": "2026-01-14", "name": "Makar Sankranti / Pongal / Bihu", "type": "National Festival", "details": ["Gazetted Holiday"]},
-        {"date": "2026-01-15", "name": "Kanuma / Mattu Pongal", "type": "Regional Festival"},
+        {"date": "2026-01-14", "name": "Bhogi / Lohri", "type": "Regional Festival"},
+        {"date": "2026-01-15", "name": "Makar Sankranti / Pongal / Bihu", "type": "National Festival", "details": ["Gazetted Holiday"]},
+        {"date": "2026-01-16", "name": "Kanuma / Mattu Pongal", "type": "Regional Festival"},
         {"date": "2026-01-18", "name": "Pausha Amavasya", "type": "Lunar Day (Amavasya)"},
         {"date": "2026-01-26", "name": "Republic Day", "type": "National Holiday"},
         {"date": "2026-01-31", "name": "Pausha Purnima", "type": "Lunar Day (Purnima)"}
